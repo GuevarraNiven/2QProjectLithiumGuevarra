@@ -1,0 +1,62 @@
+.home-page img{
+  height: 75px;
+  width: 425px;
+  float: left;
+}
+.search-bar input{
+  height: 75px;
+  width: auto;
+  float: right;
+}
+.popout-index img{
+  height: 75px;
+  width: 75px;
+  float: right;
+}
+.topic-link img{
+  height: auto;
+  width: 100%;
+  margin-top: 25px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.about-link{
+  height: 125px;
+  width: 500px;
+  margin-top: 25px;
+  margin-right: auto;
+  margin-left: auto;
+}
+.excerpt img{
+  height: 400px;
+  width: 550px;
+  margin-top: 25px; 
+  float: left;
+  margin-right: auto;
+  margin-left: auto;
+}
+.text {
+  height: 400px;
+  width: 925px;
+  margin-top: 25px;
+  float: right;
+}
+.excerpt-2 {
+  height: 400px;
+  width: 550px;
+  margin-top: 25px; 
+  float: right;
+}
+.text-2 {
+  height: 400px;
+  width: 925px;
+  margin-top: 25px;
+  float: left;
+}
+.images {
+  height: 300px;
+  width: 1500px;
+  float: left;
+  margin-top: 25px;
+}
